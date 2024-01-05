@@ -1,6 +1,6 @@
-{
-	"author": "Corrie Botha",
+{	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Corrie Botha",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
